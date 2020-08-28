@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="90cdd505-1af3-4890-a0f0-a7abdcf4379a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TeeVvOOQ3m0nxCjBvRTr7gKM6L" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/java/ch/epfl/cs107/play/game/arpg" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ch.epfl.cs107.play.game.rpg.actor" />
+      <recent name="ch.epfl.cs107.play.game.areagame.actor" />
+      <recent name="ch.epfl.cs107.play.game.arpg.actor" />
+      <recent name="ch.epfl.cs107.play.game.arpg.handler" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Programmes sl0w\JAVA\Eclipse Slow\MP2-2019Zelda\res\strings" />
+      <recent name="D:\Programmes sl0w\JAVA\Eclipse Slow\MP2-2019Zelda\java\ch\epfl\cs107\play\game\arpg\area" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Play" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch.epfl.cs107.play.Play" />
+      <module name="MP2-2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch.epfl.cs107.play.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Play" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90cdd505-1af3-4890-a0f0-a7abdcf4379a" name="Default Changelist" comment="" />
+      <created>1573825015828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573825015828</updated>
+      <workItem from="1573825026355" duration="3813000" />
+      <workItem from="1574177084488" duration="131000" />
+      <workItem from="1574195588827" duration="493000" />
+      <workItem from="1574198050025" duration="582000" />
+      <workItem from="1574277006353" duration="5288000" />
+      <workItem from="1574286822041" duration="1721000" />
+      <workItem from="1574323981889" duration="251000" />
+      <workItem from="1574425449895" duration="7581000" />
+      <workItem from="1574433247061" duration="83000" />
+      <workItem from="1574433359524" duration="85000" />
+      <workItem from="1574514370539" duration="120000" />
+      <workItem from="1574542264972" duration="238000" />
+      <workItem from="1574607994134" duration="113000" />
+      <workItem from="1574608987921" duration="8020000" />
+      <workItem from="1574721075566" duration="820000" />
+      <workItem from="1574798377585" duration="388000" />
+      <workItem from="1574799126854" duration="1204000" />
+      <workItem from="1574885258404" duration="509000" />
+      <workItem from="1574885806959" duration="22000" />
+      <workItem from="1574885866314" duration="913000" />
+      <workItem from="1574886809388" duration="46000" />
+      <workItem from="1574886866938" duration="23000" />
+      <workItem from="1574886906858" duration="50000" />
+      <workItem from="1574886986903" duration="100000" />
+      <workItem from="1574887158839" duration="681000" />
+      <workItem from="1574888036976" duration="147000" />
+      <workItem from="1574888351011" duration="494000" />
+      <workItem from="1574932528039" duration="1152000" />
+      <workItem from="1574936589380" duration="639000" />
+      <workItem from="1574963782527" duration="227000" />
+      <workItem from="1574964041564" duration="83000" />
+      <workItem from="1574964336736" duration="472000" />
+      <workItem from="1574964830880" duration="5177000" />
+      <workItem from="1574973116536" duration="1555000" />
+      <workItem from="1574974736018" duration="8000" />
+      <workItem from="1574974764570" duration="219000" />
+      <workItem from="1575030087463" duration="8745000" />
+      <workItem from="1575111533593" duration="25556000" />
+      <workItem from="1575137525534" duration="4616000" />
+      <workItem from="1575193960683" duration="3305000" />
+      <workItem from="1575213450923" duration="15429000" />
+      <workItem from="1575230605549" duration="51000" />
+      <workItem from="1575230673835" duration="167000" />
+      <workItem from="1575278549765" duration="4685000" />
+      <workItem from="1575304729962" duration="1296000" />
+      <workItem from="1575316528304" duration="148000" />
+      <workItem from="1575317945997" duration="4022000" />
+      <workItem from="1575396062063" duration="199000" />
+      <workItem from="1575406920374" duration="3000" />
+      <workItem from="1575407437787" duration="2060000" />
+      <workItem from="1575450387862" duration="216000" />
+      <workItem from="1575461798376" duration="40000" />
+      <workItem from="1575462028720" duration="3077000" />
+      <workItem from="1575488408265" duration="206000" />
+      <workItem from="1575579160811" duration="384000" />
+      <workItem from="1575579627256" duration="496000" />
+      <workItem from="1575617437051" duration="9356000" />
+      <workItem from="1575628262664" duration="1630000" />
+      <workItem from="1575637795805" duration="1586000" />
+      <workItem from="1575639731300" duration="62000" />
+      <workItem from="1575639798623" duration="732000" />
+      <workItem from="1575640590974" duration="7000" />
+      <workItem from="1575640609270" duration="50000" />
+      <workItem from="1575640671427" duration="28000" />
+      <workItem from="1575640826304" duration="12000" />
+      <workItem from="1575640918745" duration="124000" />
+      <workItem from="1575641122930" duration="2636000" />
+      <workItem from="1575652213926" duration="13411000" />
+      <workItem from="1575715545710" duration="26054000" />
+      <workItem from="1575754147153" duration="3105000" />
+      <workItem from="1575802283264" duration="1604000" />
+      <workItem from="1575806816408" duration="476000" />
+      <workItem from="1575809182582" duration="700000" />
+      <workItem from="1575817209680" duration="75000" />
+      <workItem from="1575817872331" duration="31000" />
+      <workItem from="1575819034944" duration="160000" />
+      <workItem from="1575819350877" duration="3144000" />
+      <workItem from="1575830036169" duration="4181000" />
+      <workItem from="1575836835351" duration="616000" />
+      <workItem from="1575903503635" duration="1103000" />
+      <workItem from="1575908184517" duration="358000" />
+      <workItem from="1575913147622" duration="1216000" />
+      <workItem from="1575915734073" duration="8625000" />
+      <workItem from="1575928102635" duration="2760000" />
+      <workItem from="1575961070468" duration="289000" />
+      <workItem from="1576005266586" duration="10089000" />
+      <workItem from="1576017800393" duration="402000" />
+      <workItem from="1576047622528" duration="364000" />
+      <workItem from="1576065834665" duration="2416000" />
+      <workItem from="1576068329441" duration="1201000" />
+      <workItem from="1576069556293" duration="37000" />
+      <workItem from="1576069685346" duration="136000" />
+      <workItem from="1576088687923" duration="3349000" />
+      <workItem from="1576092113425" duration="10643000" />
+      <workItem from="1576102827711" duration="1138000" />
+      <workItem from="1576142922030" duration="129000" />
+      <workItem from="1576143503011" duration="63000" />
+      <workItem from="1576176036560" duration="637000" />
+      <workItem from="1576221780633" duration="577000" />
+      <workItem from="1576223319601" duration="71000" />
+      <workItem from="1576223475030" duration="1168000" />
+      <workItem from="1576224709521" duration="113000" />
+      <workItem from="1576225731478" duration="8398000" />
+      <workItem from="1576238431821" duration="4103000" />
+      <workItem from="1576243360840" duration="1013000" />
+      <workItem from="1576244399544" duration="3518000" />
+      <workItem from="1576257817244" duration="16505000" />
+      <workItem from="1576277223900" duration="808000" />
+      <workItem from="1576278159945" duration="56000" />
+      <workItem from="1576326428968" duration="68000" />
+      <workItem from="1576330823318" duration="2447000" />
+      <workItem from="1576333343852" duration="8075000" />
+      <workItem from="1576344637336" duration="94000" />
+      <workItem from="1576345147828" duration="16469000" />
+      <workItem from="1576399463963" duration="3378000" />
+      <workItem from="1576404570171" duration="2993000" />
+      <workItem from="1576409651726" duration="337000" />
+      <workItem from="1576415021484" duration="99000" />
+      <workItem from="1576419765692" duration="1593000" />
+      <workItem from="1576436686179" duration="12617000" />
+      <workItem from="1576455603358" duration="3054000" />
+      <workItem from="1576479172078" duration="1043000" />
+      <workItem from="1576487901181" duration="5760000" />
+      <workItem from="1576508379426" duration="268000" />
+      <workItem from="1576508997836" duration="1044000" />
+      <workItem from="1576510355520" duration="4000" />
+      <workItem from="1576510428714" duration="18502000" />
+      <workItem from="1576531395951" duration="52000" />
+      <workItem from="1576532494299" duration="4575000" />
+      <workItem from="1576583630743" duration="4033000" />
+      <workItem from="1576590007046" duration="93000" />
+      <workItem from="1576590568858" duration="1218000" />
+      <workItem from="1576597374675" duration="2341000" />
+      <workItem from="1576613360454" duration="706000" />
+      <workItem from="1576660567821" duration="6000" />
+      <workItem from="1576666737251" duration="36000" />
+      <workItem from="1576681018588" duration="3253000" />
+      <workItem from="1576693994939" duration="1499000" />
+      <workItem from="1576697236625" duration="6009000" />
+      <workItem from="1576709386842" duration="17193000" />
+      <workItem from="1576726750891" duration="3000" />
+      <workItem from="1576726826368" duration="1410000" />
+      <workItem from="1576728344087" duration="1291000" />
+      <workItem from="1576729745144" duration="6395000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="371" y="95" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1575038686285">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="95" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1280.680@0.0.1280.680" timestamp="1575038686285" />
+    <state x="390" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576239438810">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="390" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1576239438810" />
+    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser" timestamp="1576730864953">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1576730864953" />
+    <state x="277" y="266" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1575280651540">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="277" y="266" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1575280651540" />
+    <state x="407" y="200" width="467" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1576718413865">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="407" y="200" width="467" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1576718413865" />
+    <state x="109" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1576717522267">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="109" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1576717522267" />
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576333779181">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1576333779181" />
+    <state x="526" y="43" key="#xdebugger.evaluate" timestamp="1576488754420">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="526" y="43" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1576488754420" />
+    <state x="421" y="83" key="FileChooserDialogImpl" timestamp="1576736148533">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="83" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1576736148533" />
+    <state width="1237" height="86" key="GridCell.Tab.0.bottom" timestamp="1576736149405">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="86" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576736149405" />
+    <state width="1237" height="86" key="GridCell.Tab.0.center" timestamp="1576736149405">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="86" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1576736149405" />
+    <state width="1237" height="86" key="GridCell.Tab.0.left" timestamp="1576736149404">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="86" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1576736149404" />
+    <state width="1237" height="86" key="GridCell.Tab.0.right" timestamp="1576736149405">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="86" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1576736149405" />
+    <state width="1237" height="103" key="GridCell.Tab.1.bottom" timestamp="1576589400054">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="103" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576589400054" />
+    <state width="1237" height="103" key="GridCell.Tab.1.center" timestamp="1576589400054">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="103" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1576589400054" />
+    <state width="1237" height="103" key="GridCell.Tab.1.left" timestamp="1576589400054">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="103" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1576589400054" />
+    <state width="1237" height="103" key="GridCell.Tab.1.right" timestamp="1576589400054">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="103" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1576589400054" />
+    <state x="315" y="39" key="NewModule_or_Project.wizard" timestamp="1576223771132">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="315" y="39" key="NewModule_or_Project.wizard/0.0.1280.680@0.0.1280.680" timestamp="1576223771132" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1575641010028">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1575641010028" />
+    <state x="452" y="118" key="chooseDestDirectoryDialog" timestamp="1575280831301">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="452" y="118" key="chooseDestDirectoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1575280831301" />
+    <state x="314" y="10" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1575623087991">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="314" y="10" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680@0.0.1280.680" timestamp="1575623087991" />
+    <state x="-420" y="25" width="1095" height="495" key="dock-window-1" timestamp="1576441247986">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="-420" y="25" width="1095" height="495" key="dock-window-1/0.0.1280.680@0.0.1280.680" timestamp="1576441247986" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-10" timestamp="1576244954959">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-10/0.0.1280.680@0.0.1280.680" timestamp="1576244954959" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-11" timestamp="1576243483557">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-11/0.0.1280.680@0.0.1280.680" timestamp="1576243483557" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-12" timestamp="1576243483557">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-12/0.0.1280.680@0.0.1280.680" timestamp="1576243483557" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-13" timestamp="1576243483557">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-13/0.0.1280.680@0.0.1280.680" timestamp="1576243483557" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-14" timestamp="1576243483557">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-14/0.0.1280.680@0.0.1280.680" timestamp="1576243483557" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-15" timestamp="1576243483557">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-15/0.0.1280.680@0.0.1280.680" timestamp="1576243483557" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-16" timestamp="1576244954960">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-16/0.0.1280.680@0.0.1280.680" timestamp="1576244954960" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-17" timestamp="1576244954960">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-17/0.0.1280.680@0.0.1280.680" timestamp="1576244954960" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-18" timestamp="1576243483558">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-18/0.0.1280.680@0.0.1280.680" timestamp="1576243483558" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-19" timestamp="1576244954960">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-19/0.0.1280.680@0.0.1280.680" timestamp="1576244954960" />
+    <state x="0" y="0" width="1095" height="495" key="dock-window-2" timestamp="1576242562658">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" width="1095" height="495" key="dock-window-2/0.0.1280.680@0.0.1280.680" timestamp="1576242562658" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-20" timestamp="1576244954960">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-20/0.0.1280.680@0.0.1280.680" timestamp="1576244954960" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-21" timestamp="1576243483558">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-21/0.0.1280.680@0.0.1280.680" timestamp="1576243483558" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-22" timestamp="1576244954960">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-22/0.0.1280.680@0.0.1280.680" timestamp="1576244954960" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-23" timestamp="1576243483558">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-23/0.0.1280.680@0.0.1280.680" timestamp="1576243483558" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-24" timestamp="1576244954960">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-24/0.0.1280.680@0.0.1280.680" timestamp="1576244954960" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-25" timestamp="1576243483558">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-25/0.0.1280.680@0.0.1280.680" timestamp="1576243483558" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-26" timestamp="1576244954960">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-26/0.0.1280.680@0.0.1280.680" timestamp="1576244954960" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-27" timestamp="1576243483558">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-27/0.0.1280.680@0.0.1280.680" timestamp="1576243483558" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-28" timestamp="1576244954960">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-28/0.0.1280.680@0.0.1280.680" timestamp="1576244954960" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-29" timestamp="1576243483558">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-29/0.0.1280.680@0.0.1280.680" timestamp="1576243483558" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-3" timestamp="1576244954960">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-3/0.0.1280.680@0.0.1280.680" timestamp="1576244954960" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-30" timestamp="1576244954960">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-30/0.0.1280.680@0.0.1280.680" timestamp="1576244954960" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-31" timestamp="1576243483558">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-31/0.0.1280.680@0.0.1280.680" timestamp="1576243483558" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-32" timestamp="1576244954960">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-32/0.0.1280.680@0.0.1280.680" timestamp="1576244954960" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-33" timestamp="1576243483558">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-33/0.0.1280.680@0.0.1280.680" timestamp="1576243483558" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-34" timestamp="1576243483559">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-34/0.0.1280.680@0.0.1280.680" timestamp="1576243483559" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-35" timestamp="1576244954960">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-35/0.0.1280.680@0.0.1280.680" timestamp="1576244954960" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-36" timestamp="1576244954960">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-36/0.0.1280.680@0.0.1280.680" timestamp="1576244954960" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-37" timestamp="1576244954960">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-37/0.0.1280.680@0.0.1280.680" timestamp="1576244954960" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-38" timestamp="1576243483559">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-38/0.0.1280.680@0.0.1280.680" timestamp="1576243483559" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-39" timestamp="1576244954961">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-39/0.0.1280.680@0.0.1280.680" timestamp="1576244954961" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-4" timestamp="1576244954961">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-4/0.0.1280.680@0.0.1280.680" timestamp="1576244954961" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-40" timestamp="1576243483559">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-40/0.0.1280.680@0.0.1280.680" timestamp="1576243483559" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-41" timestamp="1576244954961">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-41/0.0.1280.680@0.0.1280.680" timestamp="1576244954961" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-42" timestamp="1576244954961">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-42/0.0.1280.680@0.0.1280.680" timestamp="1576244954961" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-43" timestamp="1576243483560">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-43/0.0.1280.680@0.0.1280.680" timestamp="1576243483560" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-44" timestamp="1576244954961">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-44/0.0.1280.680@0.0.1280.680" timestamp="1576244954961" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-45" timestamp="1576243483560">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-45/0.0.1280.680@0.0.1280.680" timestamp="1576243483560" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-46" timestamp="1576244954961">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-46/0.0.1280.680@0.0.1280.680" timestamp="1576244954961" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-47" timestamp="1576244954961">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-47/0.0.1280.680@0.0.1280.680" timestamp="1576244954961" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-48" timestamp="1576243483560">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-48/0.0.1280.680@0.0.1280.680" timestamp="1576243483560" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-49" timestamp="1576243483560">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-49/0.0.1280.680@0.0.1280.680" timestamp="1576243483560" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-5" timestamp="1576244954961">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-5/0.0.1280.680@0.0.1280.680" timestamp="1576244954961" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-50" timestamp="1576244954961">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-50/0.0.1280.680@0.0.1280.680" timestamp="1576244954961" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-51" timestamp="1576244954962">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-51/0.0.1280.680@0.0.1280.680" timestamp="1576244954962" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-52" timestamp="1576241451771">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-52/0.0.1280.680@0.0.1280.680" timestamp="1576241451771" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-53" timestamp="1576241451771">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-53/0.0.1280.680@0.0.1280.680" timestamp="1576241451771" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-54" timestamp="1576241451771">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-54/0.0.1280.680@0.0.1280.680" timestamp="1576241451771" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-55" timestamp="1576241451771">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-55/0.0.1280.680@0.0.1280.680" timestamp="1576241451771" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-56" timestamp="1576241451771">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-56/0.0.1280.680@0.0.1280.680" timestamp="1576241451771" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-6" timestamp="1576243483561">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-6/0.0.1280.680@0.0.1280.680" timestamp="1576243483561" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-7" timestamp="1576244954962">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-7/0.0.1280.680@0.0.1280.680" timestamp="1576244954962" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-8" timestamp="1576243483561">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-8/0.0.1280.680@0.0.1280.680" timestamp="1576243483561" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-9" timestamp="1576243483561">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-9/0.0.1280.680@0.0.1280.680" timestamp="1576243483561" />
+    <state x="271" y="42" width="742" height="596" key="find.popup" timestamp="1576728550508">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="271" y="42" width="742" height="596" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1576728550508" />
+    <state x="91" y="0" key="new project wizard" timestamp="1576239427592">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1576239427592" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1575278616137">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1575278616137" />
+    <state x="303" y="0" width="672" height="678" key="search.everywhere.popup" timestamp="1576733310375">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="0" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1576733310375" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="possibleOrientations" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
