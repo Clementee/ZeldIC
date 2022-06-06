@@ -1,15 +1,15 @@
 /// README /// UTF8
 
-LAUNCH:
+## LAUNCH:
 Exécuter Play.java
 
-DEPLACEMENT:
+## DEPLACEMENT:
 Flèches directionnelles pour le déplacement - possibilité de maintenir les enfoncées
    °Si à vélo: déplacement deux fois plus rapide
    °Si utilisant bouclier: déplacement deux fois moins rapide, nécessité d'appuyer
 Intéraction à distance: appui sur E
 
-ITEMS & INVENTAIRE:
+## ITEMS & INVENTAIRE:
 -Changer l'item courant: TAB
 -Utiliser l'item courant: SPACE
    °Epée: pression pour une attaque ou maintien de space pour des attaques successives
@@ -25,14 +25,14 @@ Quand MODE de Test est true, l'ensemble des items de combat ainsi que des cerise
 un fantôme..)
 Sinon, ne seront pas ajoutés d'office: le bouclier, le vélo, nombre de bombes, de flèches, la castlekey.
 
-DIALOGUES ET SIGNS
+## DIALOGUES ET SIGNS
 Les dialogues et lectures de panneaux sont engagés en appuyant sur E, puis refermés par V.
 
-DIVERS:
+## DIVERS:
 Dans RouteChateau, S et L enregistrent respectivement un FlameSkull et un LogMonster dans la zone, et B crée une bombe en
 face du joueur si cette case est libre, et ceci à volonté. Ces fonctionnalités sont désactivées quand MODE de Test == false.
 
-IMAGES:
+##IMAGES:
 Adaptées à partir de celles données avec la maquette et créées sur GIMP/Paint.net, sauf:
 zelda/stick.png: https://gamepedia.cursecdn.com/minecraft_gamepedia/a/aa/Stick.png?version=71db5a8af84f921199c1614847e5cb31
 
